@@ -12,7 +12,7 @@ I'm a software developer with a passion for coding challenges, automation, and e
 
 ## 🚀 Notable Projects
 
-- **[advent-of-code-2022](https://github.com/zezke/advent-of-code-2022)** - Solving Advent of Code challenges in Go ⭐
+- **[advent-of-code-2022](https://github.com/zezke/advent-of-code-2022)** - My solutions to Advent of Code challenges in Go ⭐
 - **[fitbit-account-sync](https://github.com/zezke/fitbit-account-sync)** - Synchronizes sleep data between Fitbit accounts
 - **[ansible-nvidia-docker2](https://github.com/zezke/ansible-nvidia-docker2)** - Ansible playbook for setting up Nvidia driver, Docker CE, and nvidia-docker2
 - **[RNN-Experiments](https://github.com/zezke/RNN-Experiments)** - Experiments with Recurrent Neural Networks
